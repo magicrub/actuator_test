@@ -1,0 +1,3 @@
+[submodule "modules/framework"]
+	path = modules/framework
+	url = https://github.com/OpenMotorDrive/framework
